@@ -17,18 +17,3 @@ joblib==1.5.1
 scikit-learn==1.4.2
 scikit-optimize==0.10.2
 ```
-
-
-### Training Examples
-
-```
-bash train_1.sh
-bash train_2.sh
-bash train_3.sh
-```
-
-### Testing Examples
-For convenience, you can also directly load the provided model weights for inference:
-```
-bash eval.sh
-```
